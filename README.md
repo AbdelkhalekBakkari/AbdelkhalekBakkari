@@ -80,64 +80,9 @@ Here are some ideas to get you started:
 
 
 
-# Features
 
-- [GitHub Stats Card](#github-stats-card)
-- [GitHub Extra Pins](#github-extra-pins)
-- [Top Languages Card](#top-languages-card)
-- [Wakatime Week Stats](#wakatime-week-stats)
-- [Themes](#themes)
-- [Customization](#customization)
-  - [Common Options](#common-options)
-  - [Stats Card Exclusive Options](#stats-card-exclusive-options)
-  - [Repo Card Exclusive Options](#repo-card-exclusive-options)
-  - [Language Card Exclusive Options](#language-card-exclusive-options)
-  - [Wakatime Card Exclusive Option](#wakatime-card-exclusive-options)
-- [Deploy Yourself](#deploy-on-your-own-vercel-instance)
 
-# GitHub Stats Card
 
-Copy-paste this into your markdown content, and that's it. Simple!
-
-Change the `?username=` value to your GitHub's username.
-
-```md
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=abdelkhalekbakkari)](https://github.com/abdelkhalekbakkari/github-readme-stats)
-```
-
-_Note: Available ranks are S+ (top 1%), S (top 25%), A++ (top 45%), A+ (top 60%), and B+ (everyone).
-The values are calculated by using the [cumulative distribution function](https://en.wikipedia.org/wiki/Cumulative_distribution_function) using commits, contributions, issues, stars, pull requests, followers, and owned repositories.
-The implementation can be investigated at [src/calculateRank.js](./src/calculateRank.js)._
-
-### Hiding individual stats
-
-To hide any specific stats, you can pass a query parameter `?hide=` with comma-separated values.
-
-> Options: `&hide=stars,commits,prs,issues,contribs`
-
-```md
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=abdelkhalekbakkari&hide=contribs,prs)
-```
-
-### Adding private contributions count to total commits count
-
-You can add the count of all your private contributions to the total commits count by using the query parameter `?count_private=true`.
-
-_Note: If you are deploying this project yourself, the private contributions will be counted by default. Otherwise, you need to choose to share your private contribution counts._
-
-> Options: `&count_private=true`
-
-```md
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=abdelkhalekbakkari&count_private=true)
-```
-
-### Showing icons
-
-To enable icons, you can pass `show_icons=true` in the query param, like so:
-
-```md
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=abdelkhalekbakkari&show_icons=true)
-```
 
 ### Themes
 
