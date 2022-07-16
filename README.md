@@ -23,19 +23,6 @@ Use [show_owner](#customization) variable to include the repo's owner username
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=abdelkhalekbakkari&repo=github-readme-stats&show_owner=true)](https://github.com/abdelkhalekbakkari/github-readme-stats)
 
-# Top Languages Card
-
-The top languages card show a GitHub user's most frequently used top language.
-
-_NOTE: Top Languages does not indicate my skill level or anything like that; it's a GitHub metric to determine which languages have the most code on GitHub. It's a new feature of github-readme-stats._
-
-### Usage
-
-Copy-paste this code into your readme and change the links.
-
-Endpoint: `api/top-langs?username=abdelkhalekbakkari`
-
-### Demo
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
 
