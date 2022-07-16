@@ -15,106 +15,11 @@
 <p align="center">Love the project? Please consider <a href="https://www.paypal.me/abdelkhalekbakkari">donating</a> to help it improve!
 
 
-
-
-
-
-
-
-
-<img src="https://res.cloudinary.com/abdelkhalekbakkari/image/upload/v1595174536/grs-themes_l4ynja.png" alt="GitHub Readme Stats Themes" width="600px"/>
-
-You can look at a preview for [all available themes](./themes/README.md) or checkout the [theme config file](./themes/index.js) & **you can also contribute new themes** if you like :D
-
-### Customization
-
-You can customize the appearance of your `Stats Card` or `Repo Card` however you wish with URL params.
-
-#### Common Options:
-
-- `title_color` - Card's title color _(hex color)_
-- `text_color` - Body text color _(hex color)_
-- `icon_color` - Icons color if available _(hex color)_
-- `border_color` - Card's border color _(hex color)_. (Does not apply when `hide_border` is enabled)
-- `bg_color` - Card's background color _(hex color)_ **or** a gradient in the form of _angle,start,end_
-- `hide_border` - Hides the card's border _(boolean)_
-- `theme` - name of the theme, choose from [all available themes](./themes/README.md)
-- `cache_seconds` - set the cache header manually _(min: 1800, max: 86400)_
-- `locale` - set the language in the card _(e.g. cn, de, es, etc.)_
-- `border_radius` - Corner rounding on the card_
-
-##### Gradient in bg_color
-
-You can provide multiple comma-separated values in bg_color option to render a gradient, the format of the gradient is :-
-
-```
-&bg_color=DEG,COLOR1,COLOR2,COLOR3...COLOR10
-```
-
-> Note on cache: Repo cards have a default cache of 4 hours (14400 seconds) if the fork count & star count is less than 1k, otherwise, it's 2 hours (7200 seconds). Also, note that the cache is clamped to a minimum of 2 hours and a maximum of 24 hours.
-
-#### Stats Card Exclusive Options:
-
-- `hide` - Hides the specified items from stats _(Comma-separated values)_
-- `hide_title` - _(boolean)_
-- `hide_rank` - _(boolean)_ hides the rank and automatically resizes the card width
-- `show_icons` - _(boolean)_
-- `include_all_commits` - Count total commits instead of just the current year commits _(boolean)_
-- `count_private` - Count private commits _(boolean)_
-- `line_height` - Sets the line-height between text _(number)_
-- `custom_title` - Sets a custom title for the card
-- `disable_animations` - Disables all animations in the card _(boolean)_
-
-#### Repo Card Exclusive Options:
-
-- `show_owner` - Show the repo's owner name _(boolean)_
-
-#### Language Card Exclusive Options:
-
-- `hide` - Hide the languages specified from the card _(Comma-separated values)_
-- `hide_title` - _(boolean)_
-- `layout` - Switch between two available layouts `default` & `compact`
-- `card_width` - Set the card's width manually _(number)_
-- `langs_count` - Show more languages on the card, between 1-10, defaults to 5 _(number)_
-- `exclude_repo` - Exclude specified repositories _(Comma-separated values)_
-- `custom_title` - Sets a custom title for the card
-
-> :warning: **Important:**
-> Language names should be uri-escaped, as specified in [Percent Encoding](https://en.wikipedia.org/wiki/Percent-encoding)
-> (i.e: `c++` should become `c%2B%2B`, `jupyter notebook` should become `jupyter%20notebook`, etc.) You can use
-> [urlencoder.org](https://www.urlencoder.org/) to help you do this automatically.
-
-#### Wakatime Card Exclusive Options:
-
-- `hide` - Hide the languages specified from the card _(Comma-separated values)_
-- `hide_title` - _(boolean)_
-- `line_height` - Sets the line-height between text _(number)_
-- `hide_progress` - Hides the progress bar and percentage _(boolean)_
-- `custom_title` - Sets a custom title for the card
-- `layout` - Switch between two available layouts `default` & `compact`
-- `langs_count` - Limit number of languages on the card, defaults to all reported langauges
-- `api_domain` - Set a custom API domain for the card, e.g. to use services like [Hakatime](https://github.com/mujx/hakatime) or [Wakapi](https://github.com/muety/wakapi)
-- `range` – Request a range different from your WakaTime default, e.g. `last_7_days`. See [WakaTime API docs](https://wakatime.com/developers#stats) for list of available options.
-
----
-
-# GitHub Extra Pins
-
-GitHub extra pins allow you to pin more than 6 repositories in your profile using a GitHub readme profile.
-
-Yay! You are no longer limited to 6 pinned repositories.
-
-### Usage
-
-Copy-paste this code into your readme and change the links.
-
 Endpoint: `api/pin?username=abdelkhalekbakkari&repo=github-readme-stats`
 
 ```md
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=abdelkhalekbakkari&repo=github-readme-stats)](https://github.com/abdelkhalekbakkari/github-readme-stats)
 ```
-
-### Demo
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=abdelkhalekbakkari&repo=github-readme-stats)](https://github.com/abdelkhalekbakkari/github-readme-stats)
 
