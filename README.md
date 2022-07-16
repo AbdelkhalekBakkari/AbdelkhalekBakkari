@@ -20,21 +20,9 @@
 
 
 
-### Themes
 
-With inbuilt themes, you can customize the look of the card without doing any [manual customization](#customization).
 
-Use `&theme=THEME_NAME` parameter like so :-
-
-```md
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=abdelkhalekbakkari&show_icons=true&theme=radical)
-```
-
-#### All inbuilt themes :-
-
-dark, radical, merko, gruvbox, tokyonight, onedark, cobalt, synthwave, highcontrast, dracula
-
-<img src="https://res.cloudinary.com/anuraghazra/image/upload/v1595174536/grs-themes_l4ynja.png" alt="GitHub Readme Stats Themes" width="600px"/>
+<img src="https://res.cloudinary.com/abdelkhalekbakkari/image/upload/v1595174536/grs-themes_l4ynja.png" alt="GitHub Readme Stats Themes" width="600px"/>
 
 You can look at a preview for [all available themes](./themes/README.md) or checkout the [theme config file](./themes/index.js) & **you can also contribute new themes** if you like :D
 
