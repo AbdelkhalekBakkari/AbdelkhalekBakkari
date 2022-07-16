@@ -16,9 +16,6 @@
 
 Endpoint: `api/pin?username=abdelkhalekbakkari&repo=github-readme-stats`
 
-```md
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=abdelkhalekbakkari&repo=github-readme-stats)](https://github.com/abdelkhalekbakkari/github-readme-stats)
-```
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=abdelkhalekbakkari&repo=github-readme-stats)](https://github.com/abdelkhalekbakkari/github-readme-stats)
 
