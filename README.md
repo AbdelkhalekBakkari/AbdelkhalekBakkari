@@ -30,11 +30,6 @@ Use [show_owner](#customization) variable to include the repo's owner username
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abdelkhalekbakkari&layout=compact)](https://github.com/abdelkhalekbakkari/github-readme-stats)
 
-# Wakatime Week Stats
-
-Change the `?username=` value to your [Wakatime](https://wakatime.com) username.
-
-```md
 [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=abdelkhalekbakkari)](https://github.com/abdelkhalekbakkari/github-readme-stats)
 ```
 
