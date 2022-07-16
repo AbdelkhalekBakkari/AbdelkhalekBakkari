@@ -19,7 +19,6 @@ Endpoint: `api/pin?username=abdelkhalekbakkari&repo=github-readme-stats`
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=abdelkhalekbakkari&repo=github-readme-stats)](https://github.com/abdelkhalekbakkari/github-readme-stats)
 
-Use [show_owner](#customization) variable to include the repo's owner username
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=abdelkhalekbakkari&repo=github-readme-stats&show_owner=true)](https://github.com/abdelkhalekbakkari/github-readme-stats)
 
