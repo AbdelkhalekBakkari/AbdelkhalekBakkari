@@ -4,7 +4,6 @@
 <h3 align="center">A Senior full-stack Developer from Belgium</h3>
 
   <p align="center">
-    <a href="#demo">View Demo</a>
     ·
     <a href="https://github.com/abdelkhalekbakkari/github-readme-stats/issues/new/choose">Report Bug</a>
     ·
@@ -38,42 +37,6 @@ _NOTE: Top Languages does not indicate my skill level or anything like that; it'
 Copy-paste this code into your readme and change the links.
 
 Endpoint: `api/top-langs?username=abdelkhalekbakkari`
-
-```md
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abdelkhalekbakkari)](https://github.com/abdelkhalekbakkari/github-readme-stats)
-```
-
-### Exclude individual repositories
-
-You can use `?exclude_repo=repo1,repo2` parameter to exclude individual repositories.
-
-```md
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abdelkhalekbakkari&exclude_repo=github-readme-stats,abdelkhalekbakkari.github.io)](https://github.com/abdelkhalekbakkari/github-readme-stats)
-```
-
-### Hide individual languages
-
-You can use `?hide=language1,language2` parameter to hide individual languages.
-
-```md
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abdelkhalekbakkari&hide=javascript,html)](https://github.com/abdelkhalekbakkari/github-readme-stats)
-```
-
-### Show more languages
-
-You can use the `&langs_count=` option to increase or decrease the number of languages shown on the card. Valid values are integers between 1 and 10 (inclusive), and the default is 5.
-
-```md
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abdelkhalekbakkari&langs_count=8)](https://github.com/abdelkhalekbakkari/github-readme-stats)
-```
-
-### Compact Language Card Layout
-
-You can use the `&layout=compact` option to change the card design.
-
-```md
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abdelkhalekbakkari&layout=compact)](https://github.com/abdelkhalekbakkari/github-readme-stats)
-```
 
 ### Demo
 
