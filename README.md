@@ -34,7 +34,7 @@ https://simpleicons.org/
 [![Codepen](https://img.shields.io/badge/Codepen-Abdelkhalek%20Bakkari-blue?logo=codepen&logoColor=white&labelColor=black)](https://codepen.io/AbdelkhalekBakkari)
 [![Codesandbox](https://img.shields.io/badge/Codesandbox-Abdelkhalek%20Bakkari-blue?logo=codesandbox&logoColor=white&labelColor=black)](https://codesandbox.io/u/Abdelkhalek-Bakkari)
 [![HackerRank](https://img.shields.io/badge/HackerRank-Abdelkhalek-Bakkari?logo=HackerRank&logoColor=Green&labelColor=black)](https://www.hackerrank.com/abdelkhalek_bak1)
-[![Codepen](https://img.shields.io/badge/Codewars-Ahmad%20Sawalqeh-maroon?logo=codewars&logoColor=maroon&labelColor=black)]([https://www.codewars.com/users/Abdelkhalek%20Bakkari](https://www.codewars.com/users/Abdelkhalek%20Bakkari))
+[![Codepen](https://img.shields.io/badge/Codewars-Abdelkhalek%20Bakkari-maroon?logo=codewars&logoColor=maroon&labelColor=black)]([https://www.codewars.com/users/Abdelkhalek%20Bakkari](https://www.codewars.com/users/Abdelkhalek%20Bakkari))
 <!-- [![HitCount](http://hits.dwyl.com/Ahmad-Sawalqeh/Ahmad-Sawalqeh.svg)](http://hits.dwyl.com/Ahmad-Sawalqeh/Ahmad-Sawalqeh) -->
 
 <h3 align='center'><strong><a href="https://about.me/abdelkhalek.bakkari" target="_blank">Portfolio🌐</a></strong></h3>
