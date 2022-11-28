@@ -28,17 +28,17 @@ https://simpleicons.org/
 📝 ***Feel free to contact me. I am always here ...*** <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">  [![Github](https://img.shields.io/github/followers/AbdelkhalekBakkari?label=Follow%20Me&style=social)](https://github.com/abdelkhalekbakkari)
 <br>
 <br>
-[![Linkedin](https://img.shields.io/badge/LinkedIn-Ahmad%20Sawalqeh-blue?logo=Linkedin&logoColor=blue&labelColor=black)](https://www.linkedin.com/in/abdelkhalekbakkari/)
-[![Mail](https://img.shields.io/badge/Hotmail-sawalqa_jo@hotmail.com-blue?logo=Gmail&logoColor=blue&labelColor=black)](mailto:abdelkhalek.bakkari@caustaza.com)
+[![Linkedin](https://img.shields.io/badge/LinkedIn-Abdelkhale%20Bakkari-blue?logo=Linkedin&logoColor=blue&labelColor=black)](https://www.linkedin.com/in/abdelkhalekbakkari/)
+[![Mail](https://img.shields.io/badge/Mail-abdelkhalek.bakkari@caustaza.com-blue?logo=Gmail&logoColor=blue&labelColor=black)](mailto:abdelkhalek.bakkari@caustaza.com)
 <br>
-[![Codepen](https://img.shields.io/badge/Codepen-Ahmad%20Sawalqeh-gray?logo=codepen&logoColor=white&labelColor=black)](https://codepen.io/AhmadSawalqeh)
-[![Codesandbox](https://img.shields.io/badge/Codesandbox-Ahmad%20Sawalqeh-gray?logo=codesandbox&logoColor=white&labelColor=black)](https://codesandbox.io/u/Abdelkhalek-Bakkari)
-[![HackerRank](https://img.shields.io/badge/HackerRank-sawalqa_jo-brightgreen?logo=HackerRank&logoColor=Green&labelColor=black)](https://www.hackerrank.com/abdelkhalek_bak1)
-[![Codepen](https://img.shields.io/badge/Codewars-Ahmad%20Sawalqeh-maroon?logo=codewars&logoColor=maroon&labelColor=black)]([https://www.codewars.com/users/Ahmad-Sawalqeh](https://www.codewars.com/users/Abdelkhalek%20Bakkari))
+[![Codepen](https://img.shields.io/badge/Codepen-Abdelkhalek%20Bakkari-blue?logo=codepen&logoColor=white&labelColor=black)](https://codepen.io/AbdelkhalekBakkari)
+[![Codesandbox](https://img.shields.io/badge/Codesandbox-Abdelkhalek%20Bakkari-blue?logo=codesandbox&logoColor=white&labelColor=black)](https://codesandbox.io/u/Abdelkhalek-Bakkari)
+[![HackerRank](https://img.shields.io/badge/HackerRank-Abdelkhalek-Bakkari?logo=HackerRank&logoColor=Green&labelColor=black)](https://www.hackerrank.com/abdelkhalek_bak1)
+[![Codepen](https://img.shields.io/badge/Codewars-Ahmad%20Sawalqeh-maroon?logo=codewars&logoColor=maroon&labelColor=black)]([https://www.codewars.com/users/Abdelkhalek%20Bakkari](https://www.codewars.com/users/Abdelkhalek%20Bakkari))
 <!-- [![HitCount](http://hits.dwyl.com/Ahmad-Sawalqeh/Ahmad-Sawalqeh.svg)](http://hits.dwyl.com/Ahmad-Sawalqeh/Ahmad-Sawalqeh) -->
 
-<h3 align='center'><strong><a href="https://ahmad-sawalqeh.github.io/my_resume/" target="_blank">Portfolio🌐</a></strong></h3>
-<p align='center'>Senior Software developer | Senior Full-stack Python | Senior Django/React developer</p>
+<h3 align='center'><strong><a href="https://about.me/abdelkhalek.bakkari" target="_blank">Portfolio🌐</a></strong></h3>
+<p align='center'>Senior Software Developer | Senior Full-stack Python | Senior Django/React developer</p>
 
 <p align='left'> 📫 As someone who is always passionate for learning more about tech and life. I love to develop web scripts static websites and ever since been a self taught software developer also unstopped learner. I have evolved into a Full Stack Javascript career path, and loves working with cutting edge tools and technologies.</p>
 
