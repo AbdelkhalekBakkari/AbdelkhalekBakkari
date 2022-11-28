@@ -37,7 +37,6 @@ https://simpleicons.org/
 [![Codepen](https://img.shields.io/badge/Codewars-Ahmad%20Sawalqeh-maroon?logo=codewars&logoColor=maroon&labelColor=black)]([https://www.codewars.com/users/Ahmad-Sawalqeh](https://www.codewars.com/users/Abdelkhalek%20Bakkari))
 <!-- [![HitCount](http://hits.dwyl.com/Ahmad-Sawalqeh/Ahmad-Sawalqeh.svg)](http://hits.dwyl.com/Ahmad-Sawalqeh/Ahmad-Sawalqeh) -->
 
-<h2 align='center'><samp><strong>Hi there 👋, I am Ahmad Sawalqeh</strong></samp></h2>
 <h3 align='center'><strong><a href="https://ahmad-sawalqeh.github.io/my_resume/" target="_blank">Portfolio🌐</a></strong></h3>
 <p align='center'>Senior Software developer | Senior Full-stack Python | Senior Django/React developer</p>
 
