@@ -27,7 +27,7 @@ https://simpleicons.org/
 <br>
 <br>
 [![Linkedin](https://img.shields.io/badge/LinkedIn-Abdelkhale%20Bakkari-blue?logo=Linkedin&logoColor=blue&labelColor=black)](https://www.linkedin.com/in/abdelkhalekbakkari/)
-[![Mail](https://img.shields.io/badge/Mail-abdelkhalek.bakkari@caustaza.com-blue?logo=Gmail&logoColor=blue&labelColor=black)](mailto:abdelkhalek.bakkari@caustaza.com)
+[![Mail](https://img.shields.io/badge/Mail-abdelkhalek.bakkari@caustaza.com-blue?logo=Gmail&logoColor=blue&labelColor=black)](mailto:abdelkhalek@smartovate.com)
 <br>
 [![Codepen](https://img.shields.io/badge/Codepen-Abdelkhalek%20Bakkari-blue?logo=codepen&logoColor=white&labelColor=black)](https://codepen.io/AbdelkhalekBakkari)
 [![Codesandbox](https://img.shields.io/badge/Codesandbox-Abdelkhalek%20Bakkari-blue?logo=codesandbox&logoColor=white&labelColor=black)](https://codesandbox.io/u/Abdelkhalek-Bakkari)
