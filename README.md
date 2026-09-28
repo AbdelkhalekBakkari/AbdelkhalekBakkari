@@ -1,7 +1,9 @@
 <!-- ============================ HEADER ============================ -->
 <p align="center">
-  <img src="./assets/header.svg" width="100%" alt="Abdelkhalek Bakkari" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=42&duration=4000&pause=1000&color=FFFFFF&background=1E3A8A&center=true&vCenter=true&repeat=false&width=900&height=90&lines=Abdelkhalek+Bakkari" alt="Abdelkhalek Bakkari" />
 </p>
+
+<h3 align="center">Technical Team Lead · Senior Full-Stack Engineer · AI/LLM &amp; RAG Engineer</h3>
 
 <p align="center">
   <a href="https://github.com/abdelkhalekbakkari">
@@ -118,8 +120,8 @@ class AbdelkhalekBakkari:
 
 ## 🚀 Featured projects
 
-<!-- Replace the repo names below with your best public repositories.
-     Pick 4 projects that show different skills: an AI/RAG app, a Django+React platform, an API, a DevOps setup. -->
+<!-- Replace REPO_1..REPO_4 with your best public repositories:
+     ideally an AI/RAG app, a Django+React platform, an API, and a DevOps setup. -->
 
 <p align="center">
   <a href="https://github.com/abdelkhalekbakkari/REPO_1">
@@ -140,7 +142,7 @@ class AbdelkhalekBakkari:
 
 ## 📊 GitHub activity
 
-<!-- 3D contribution graph: generated daily from YOUR data by .github/workflows/profile-3d.yml -->
+<!-- 3D contribution graph: generated daily by .github/workflows/profile-3d.yml -->
 <p align="center">
   <img src="./profile-3d-contrib/profile-gitblock.svg" width="100%" alt="3D contribution graph" />
 </p>
@@ -186,5 +188,5 @@ I'm currently **open to freelance, contract and consulting work**, whether you n
 </p>
 
 <p align="center">
-  <img src="./assets/footer.svg" width="100%" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=16&duration=4000&pause=1500&color=0EA5E9&center=true&vCenter=true&width=600&lines=Thanks+for+visiting!+Let's+build+something+great+together+%F0%9F%9A%80" alt="Thanks for visiting" />
 </p>
