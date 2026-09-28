@@ -1,6 +1,6 @@
 <!-- ============================ HEADER ============================ -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:1e3a8a,100:0ea5e9&height=200&section=header&text=Abdelkhalek%20Bakkari&fontSize=48&fontColor=ffffff&fontAlignY=38&desc=Technical%20Team%20Lead%20%E2%80%A2%20Full-Stack%20%E2%80%A2%20AI%2FLLM%20%26%20RAG%20Engineer&descAlignY=58&descSize=18" alt="Abdelkhalek Bakkari" />
+  <img src="./assets/header.svg" width="100%" alt="Abdelkhalek Bakkari" />
 </p>
 
 <p align="center">
@@ -140,6 +140,11 @@ class AbdelkhalekBakkari:
 
 ## 📊 GitHub activity
 
+<!-- 3D contribution graph: generated daily from YOUR data by .github/workflows/profile-3d.yml -->
+<p align="center">
+  <img src="./profile-3d-contrib/profile-gitblock.svg" width="100%" alt="3D contribution graph" />
+</p>
+
 <p align="center">
   <img height="170" src="https://github-readme-stats.vercel.app/api?username=abdelkhalekbakkari&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" />
   <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdelkhalekbakkari&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
@@ -181,5 +186,5 @@ I'm currently **open to freelance, contract and consulting work**, whether you n
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0ea5e9,50:1e3a8a,100:0f172a&height=120&section=footer" />
+  <img src="./assets/footer.svg" width="100%" />
 </p>
