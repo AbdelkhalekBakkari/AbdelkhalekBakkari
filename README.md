@@ -1,98 +1,185 @@
-
-### Hi there 👋
-🔭 I’m currently working as Technical Team Leader with 17 years of experience as Django and React Developer and AI/LLM, DevOps and RAG Engineer.
-
-<h3 align="center">A Senior full-stack Developer from Belgium</h3>
-
-  <p align="center">
-    ·
-    <a href="https://github.com/abdelkhalekbakkari/github-readme-stats/issues/new/choose">Report Bug</a>
-    ·
-    <a href="https://github.com/abdelkhalekbakkari/github-readme-stats/issues/new/choose">Request Feature</a>
-  </p>
-
+<!-- ============================ HEADER ============================ -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:1e3a8a,100:0ea5e9&height=200&section=header&text=Abdelkhalek%20Bakkari&fontSize=48&fontColor=ffffff&fontAlignY=38&desc=Technical%20Team%20Lead%20%E2%80%A2%20Full-Stack%20%E2%80%A2%20AI%2FLLM%20%26%20RAG%20Engineer&descAlignY=58&descSize=18" alt="Abdelkhalek Bakkari" />
 </p>
-<p align="center">Love the project? Please consider <a href="https://www.paypal.me/abdelkhalekbakkari">donating</a> to help it improve!
 
+<p align="center">
+  <a href="https://github.com/abdelkhalekbakkari">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3500&pause=800&color=0EA5E9&center=true&vCenter=true&width=720&lines=17+years+shipping+production+software;Django+%2B+React+platforms+that+scale;LLM+apps%2C+RAG+pipelines+%26+AI+agents;DevOps%3A+CI%2FCD%2C+Docker%2C+cloud+deployments;From+idea+to+production%2C+end+to+end" alt="Typing SVG" />
+  </a>
+</p>
 
-Endpoint: `api/pin?username=abdelkhalekbakkari&repo=github-readme-stats`
+<p align="center">
+  <a href="mailto:abdelkhalek@smartovate.com"><img src="https://img.shields.io/badge/Hire%20Me-Let's%20talk-0ea5e9?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/abdelkhalekbakkari/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://about.me/abdelkhalek.bakkari"><img src="https://img.shields.io/badge/Portfolio-Visit-111827?style=for-the-badge&logo=aboutdotme&logoColor=white" /></a>
+</p>
 
-<!--
-## Complete list of github markdown emoji markup
-https://gist.github.com/rxaviers/7360908
-## technologies Icons 
-https://simpleicons.org/
--->
-📝 ***Feel free to contact me. I am always here ...*** <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">  [![Github](https://img.shields.io/github/followers/AbdelkhalekBakkari?label=Follow%20Me&style=social)](https://github.com/abdelkhalekbakkari)
-<br>
-<br>
-[![Linkedin](https://img.shields.io/badge/LinkedIn-Abdelkhale%20Bakkari-blue?logo=Linkedin&logoColor=blue&labelColor=black)](https://www.linkedin.com/in/abdelkhalekbakkari/)
-[![Mail](https://img.shields.io/badge/Mail-abdelkhalek.bakkari@caustaza.com-blue?logo=Gmail&logoColor=blue&labelColor=black)](mailto:abdelkhalek@smartovate.com)
-<br>
-[![Codepen](https://img.shields.io/badge/Codepen-Abdelkhalek%20Bakkari-blue?logo=codepen&logoColor=white&labelColor=black)](https://codepen.io/AbdelkhalekBakkari)
-[![Codesandbox](https://img.shields.io/badge/Codesandbox-Abdelkhalek%20Bakkari-blue?logo=codesandbox&logoColor=white&labelColor=black)](https://codesandbox.io/u/Abdelkhalek-Bakkari)
-[![HackerRank](https://img.shields.io/badge/HackerRank-Abdelkhalek-Bakkari?logo=HackerRank&logoColor=Green&labelColor=black)](https://www.hackerrank.com/abdelkhalek_bak1)
-[![Codepen](https://img.shields.io/badge/Codewars-Abdelkhalek%20Bakkari-maroon?logo=codewars&logoColor=maroon&labelColor=black)]([https://www.codewars.com/users/Abdelkhalek%20Bakkari](https://www.codewars.com/users/Abdelkhalek%20Bakkari))
-<!-- [![HitCount](http://hits.dwyl.com/Ahmad-Sawalqeh/Ahmad-Sawalqeh.svg)](http://hits.dwyl.com/Ahmad-Sawalqeh/Ahmad-Sawalqeh) -->
+<p align="center">
+  <img src="https://img.shields.io/badge/Status-Available%20for%20new%20projects-22c55e?style=flat-square" />
+  <img src="https://img.shields.io/badge/Based%20in-Belgium-1e3a8a?style=flat-square" />
+  <img src="https://img.shields.io/badge/Works-Remote%20%E2%80%A2%20Worldwide-0ea5e9?style=flat-square" />
+  <img src="https://komarev.com/ghpvc/?username=abdelkhalekbakkari&style=flat-square&color=0ea5e9&label=Profile+views" />
+</p>
 
-<h3 align='center'><strong><a href="https://about.me/abdelkhalek.bakkari" target="_blank">Portfolio🌐</a></strong></h3>
-<p align='center'>Senior Software Developer | Senior Full-stack Python | Senior Django/React developer</p>
+---
 
-<p align='left'> 📫 As someone who is always passionate for learning more about tech and life. I love to develop web scripts static websites and ever since been a self taught software developer also unstopped learner. I have evolved into a Full Stack Javascript career path, and loves working with cutting edge tools and technologies.</p>
+## 👋 About me
 
-Programmer specialized in **web development** using multiple **tools, frameworks and libraries** both in frontend and backend. I pay *a lot of attention to detail* to generate best products.
+I'm a **Technical Team Leader and Senior Full-Stack Engineer** with **17 years of experience** turning business ideas into reliable, scalable software.
+I lead teams and build hands-on across the whole stack: **Python/Django backends**, **React frontends**, **AI/LLM & RAG systems**, and the **DevOps** that keeps them running in production.
 
-💻 **Languages and Tools:** 🛠️<br>
+I care about the details that make products succeed: clean architecture, performance, security, test coverage, and code your team can maintain long after launch.
 
-![Git](https://img.shields.io/badge/-Git-000000?style=flat&logo=git&logoColor=F05032&labelColor=ffffff)
-![GitHub](https://img.shields.io/badge/-GitHub-000000?style=flat&logo=github&logoColor=000000&labelColor=ffffff)
-![Visual Studio Code](https://img.shields.io/badge/-VSCode-000000?style=flat&logo=visual-studio-code&labelColor=007ACC)
-![HTML5](https://img.shields.io/badge/-HTML5-000000?style=flat&logo=html5&logoColor=ffffff&labelColor=E34F26)
-![CSS3](https://img.shields.io/badge/-CSS3-000000?style=flat&logo=css3&logoColor=ffffff&labelColor=1572B6) 
-![Sass](https://img.shields.io/badge/-Sass-000000?style=flat&logo=sass&logoColor=ffffff&labelColor=%23CC6699)
-![Font Awesome](https://img.shields.io/badge/-font%20awesome-000000?style=flat&logo=font-awesome&logoColor=339AF0&labelColor=ffffff)
-![JavaScript](https://img.shields.io/badge/-JavaScript-000000?style=flat&logo=javascript)
-![jQuery](https://img.shields.io/badge/-jQuery-000000?style=flat&logo=jQuery&logoColor=0769AD&labelColor=ffffff)
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-000000?style=flat&logo=bootstrap&logoColor=ffffff&labelColor=563D7C)
-![JSON](https://img.shields.io/badge/-JSON-000000?style=flat&logo=JSON&logoColor=000000&labelColor=ffffff)
-![React](https://img.shields.io/badge/-React-000000?style=flat&logo=react)
-![Redux](https://img.shields.io/badge/-Redux-000000?style=flat&logo=redux&logoColor=764ABC&labelColor=ffffff)
-![Nodejs](https://img.shields.io/badge/-Nodejs-000000?style=flat&logo=Node.js)
-![NPM](https://img.shields.io/badge/-npm-000000?style=flat&logo=npm&labelColor=ffffff)
-![socket.io](https://img.shields.io/badge/-Socket.Io-000000?style=flat&logo=socket.io&logoColor=000000&labelColor=ffffff)
-![Jest](https://img.shields.io/badge/-Jest-000000?style=flat&logo=Jest&logoColor=C21325&labelColor=ffffff)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-000000?style=flat&logo=postgresql&logoColor=ffffff&labelColor=336791)
-![MySQL](https://img.shields.io/badge/-MySQL-000000?style=flat&logo=mysql&labelColor=ffffff)
-![MongoDB](https://img.shields.io/badge/-MongoDB-000000?style=flat&logo=mongodb&labelColor=ffffff)
-![Swagger](https://img.shields.io/badge/-Swagger-000000?style=flat&logo=swagger)
-![ESlint](https://img.shields.io/badge/-ESlint-000000?style=flat&logo=ESlint&labelColor=4B32C3)
-![Windows](https://img.shields.io/badge/-Windows-000000?style=flat&logo=windows&logoColor=ffffff&labelColor=0078D6)
+```python
+class AbdelkhalekBakkari:
+    role        = "Technical Team Leader · Senior Full-Stack · AI/LLM & RAG Engineer"
+    experience  = "17 years"
+    backend     = ["Python", "Django", "Django REST Framework", "FastAPI", "Node.js"]
+    frontend    = ["React", "Redux", "TypeScript", "Next.js", "Material UI"]
+    ai          = ["LLMs", "RAG", "LangChain", "Vector databases", "AI agents"]
+    devops      = ["Docker", "CI/CD", "GitHub Actions", "Linux", "Cloud"]
+    focus       = "Shipping products that are fast, secure and built to last"
 
+    def availability(self):
+        return "Open to freelance, contract & consulting projects 🚀"
+```
 
-🧐 **Knowledge of:**<br>
+---
 
-`Responsive web design`, `DOM`, `Styled Components`, `React Router`, `Enzyme`, `AXIOS`, `3rd Party API`, `Object-Oriented Programming`, `data structures and algorithms`.
+## 💼 How I can help your business
 
+| Service | What you get |
+|---|---|
+| 🧠 **AI & LLM Solutions** | Custom chatbots, RAG systems over your own documents, AI agents, LLM integration into existing products |
+| 🌐 **Full-Stack Web Apps** | SaaS platforms, dashboards, marketplaces and internal tools with Django + React |
+| 🔌 **APIs & Integrations** | Well-documented REST APIs (Swagger/OpenAPI), third-party integrations, payment and auth flows |
+| ⚙️ **DevOps & Cloud** | Dockerized deployments, CI/CD pipelines, monitoring, performance and cost optimization |
+| 🧭 **Tech Leadership** | Architecture reviews, code audits, team mentoring, rescuing and modernizing legacy projects |
 
-🌍 **Deployment platforms:**<br>
+> **Have a project in mind?** [Send me a message](mailto:abdelkhalek@smartovate.com) with a short description. I reply within 24 hours.
 
-<img alt="Github Pages" width="20px" height="20px" src="https://techcrunch.com/wp-content/uploads/2010/07/github-logo.png" />![Github Pages](https://img.shields.io/badge/-Github%20Pages-000000?style=flat&logo=github-pages) ![Heroku](https://img.shields.io/badge/-Heroku-000000?style=flat&logo=heroku&labelColor=430098) ![Netlify](https://img.shields.io/badge/-Netlify-000000?style=flat&logo=netlify&labelColor=000000)
+---
 
+## 🛠️ Tech stack
 
-🚩 **Highlights:** <br>
-&nbsp;<img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif' style="margin-top: 10px;" width="20px" height="20px">&nbsp;&nbsp;&nbsp;<span>Arctic Code Vault Contributor</span>
+**Backend**
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" />
+  <img src="https://img.shields.io/badge/DRF-A30000?style=for-the-badge&logo=django&logoColor=white" />
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/Socket.io-010101?style=for-the-badge&logo=socketdotio&logoColor=white" />
+  <img src="https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black" />
+</p>
 
+**Frontend**
+<p>
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/Material%20UI-007FFF?style=for-the-badge&logo=mui&logoColor=white" />
+  <img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white" />
+  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" />
+</p>
 
-📚 **Working on:** <br>
+**AI / LLM / RAG**
+<p>
+  <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" />
+  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" />
+  <img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" />
+  <img src="https://img.shields.io/badge/Vector%20DBs-0ea5e9?style=for-the-badge&logo=databricks&logoColor=white" />
+  <img src="https://img.shields.io/badge/RAG%20Pipelines-1e3a8a?style=for-the-badge&logo=elasticsearch&logoColor=white" />
+</p>
 
-![Github Actions](https://img.shields.io/badge/-Github%20Actions-000000?style=flat&logo=github-actions&logoColor=2088FF&labelColor=ffffff)
-![Json Web Tokens](https://img.shields.io/badge/-Json%20Web%20Tokens-000000?style=flat&logo=json-web-tokens&logoColor=ffffff&labelColor=000000)
-![Material-UI](https://img.shields.io/badge/-Material%20UI-000000?style=flat&logo=Material%20UI&logoColor=ffffff&labelColor=0081CB)
+**Databases**
+<p>
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" />
+</p>
 
+**DevOps & Tools**
+<p>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+  <img src="https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white" />
+  <img src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white" />
+  <img src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white" />
+</p>
 
-🤓 **Interested:** <br>
+---
 
-![React Native](https://img.shields.io/badge/-React%20Native-000000?style=flat&logo=react&labelColor=000000)
-![PHP](https://img.shields.io/badge/-PHP-000000?style=flat&logo=PHP&logoColor=5466b8&labelColor=ffffff)
-![WordPress](https://img.shields.io/badge/-WordPress-000000?style=flat&logo=wordpress&labelColor=21759B)
-![Laravel](https://img.shields.io/badge/-Laravel-000000?style=flat&logo=laravel&logoColor=ffffff&labelColor=FF2D20)
+## 🚀 Featured projects
+
+<!-- Replace the repo names below with your best public repositories.
+     Pick 4 projects that show different skills: an AI/RAG app, a Django+React platform, an API, a DevOps setup. -->
+
+<p align="center">
+  <a href="https://github.com/abdelkhalekbakkari/REPO_1">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=abdelkhalekbakkari&repo=REPO_1&theme=tokyonight&hide_border=true" />
+  </a>
+  <a href="https://github.com/abdelkhalekbakkari/REPO_2">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=abdelkhalekbakkari&repo=REPO_2&theme=tokyonight&hide_border=true" />
+  </a>
+  <a href="https://github.com/abdelkhalekbakkari/REPO_3">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=abdelkhalekbakkari&repo=REPO_3&theme=tokyonight&hide_border=true" />
+  </a>
+  <a href="https://github.com/abdelkhalekbakkari/REPO_4">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=abdelkhalekbakkari&repo=REPO_4&theme=tokyonight&hide_border=true" />
+  </a>
+</p>
+
+---
+
+## 📊 GitHub activity
+
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=abdelkhalekbakkari&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdelkhalekbakkari&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=abdelkhalekbakkari&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=abdelkhalekbakkari&theme=tokyo-night&hide_border=true&area=true" width="100%" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Arctic%20Code%20Vault-Contributor-0ea5e9?style=flat-square&logo=github" />
+</p>
+
+---
+
+## 🏆 Coding profiles
+
+<p>
+  <a href="https://www.hackerrank.com/abdelkhalek_bak1"><img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" /></a>
+  <a href="https://www.codewars.com/users/Abdelkhalek%20Bakkari"><img src="https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=codewars&logoColor=white" /></a>
+  <a href="https://codepen.io/AbdelkhalekBakkari"><img src="https://img.shields.io/badge/CodePen-000000?style=for-the-badge&logo=codepen&logoColor=white" /></a>
+  <a href="https://codesandbox.io/u/Abdelkhalek-Bakkari"><img src="https://img.shields.io/badge/CodeSandbox-151515?style=for-the-badge&logo=codesandbox&logoColor=white" /></a>
+</p>
+
+---
+
+## 🤝 Let's work together
+
+I'm currently **open to freelance, contract and consulting work**, whether you need a full product built, an AI feature added to your platform, or senior leadership for your dev team.
+
+<p align="center">
+  <a href="mailto:abdelkhalek@smartovate.com"><img src="https://img.shields.io/badge/Email-abdelkhalek@smartovate.com-0ea5e9?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/abdelkhalekbakkari/"><img src="https://img.shields.io/badge/LinkedIn-Abdelkhalek%20Bakkari-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://github.com/abdelkhalekbakkari"><img src="https://img.shields.io/github/followers/abdelkhalekbakkari?label=Follow&style=for-the-badge&logo=github&color=111827" /></a>
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0ea5e9,50:1e3a8a,100:0f172a&height=120&section=footer" />
+</p>
